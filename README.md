@@ -1,4 +1,4 @@
-# Olá! Eu sou [Joseph SANTOS] 👋
+# Olá! Eu sou Joseph Santos 👋
 
 Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da tecnologia com paixão por desenvolvimento de software, ciência de dados e soluções criativas para problemas complexos.
 
@@ -10,14 +10,12 @@ Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da tecnologia com paixão p
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de [Seu Nome]](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lima-joseph&langs_count=8)
 
 
 ## 💬 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/josephsantoos)
-- [Email]Joseph.s.9877@gmail.com
+- [Email](mailto:Joseph.s.9877@gmail.com)
 
 ---
 
